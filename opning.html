@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <!-- 最初の設定は終わっています　必要な方は触ってください -->
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>チーズアカデミー</title>
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/opning.css" />
+  </head>
+  <!-- 最初の設定は終わっています　必要な方は触ってください -->
+
+  <body>
+    <!-- この中に記述していく -->
+    <!-- ここから下にコードを書く -->
+    <!-- ーーーーーーーーここからheaderーーーーーーーー -->
+    <header></header>
+    <!-- ーーーーーーーーここまでheaderーーーーーーーー -->
+
+    <!-- ーーーーーーーーここからmainーーーーーーーー -->
+    <main>
+      <section class="backvideo">
+        <video src="./movie/movie2.mp4" autoplay muted loop></video>
+
+        <div class="tyousei">
+          <div class="logo1">
+            <div class="logo2">
+              <img src="./img/header_logo.png" alt="" />
+            </div>
+          </div>
+
+          <div>
+            <div class="text1">
+              <p class="text2">世界を変える、チーズを作ろう</p>
+            </div>
+          </div>
+
+          <!-- <div class="botan">
+            <a class="btn" href="./index.html">ENTER</a>
+          </div>
+         -->
+          <!-- <div class="btn1box"> -->
+          <a href="./index.html" class="btn1">
+            <i class="material-icons">ENTER</i>
+          </a>
+          <!-- </div> -->
+        </div>
+      </section>
+    </main>
+
+    <!-- ーーーーーーーーここまでmainーーーーーーーー -->
+
+    <!-- ーーーーーーーーここからfooter ーーーーーーーー-->
+    <footer></footer>
+
+    <!-- ーーーーーーーーここまでfooter ーーーーーーーー-->
+
+    <!-- ここから上にコードを書く -->
+    <!-- この中に記述していく -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="js/main.js">
+
+
+      $(document).ready(function() {
+
+          $('.btn1').delay(400).queue(function(next) {
+              $(this).addClass('hover').delay(1800).queue(function(next) {
+                  $(this).removeClass('hover');
+              });
+              next();
+          });
+      });
+    </script>
+  </body>
+</html>
