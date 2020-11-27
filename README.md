@@ -7,6 +7,7 @@ http://tealimpala23.sakura.ne.jp/html_NIWA_24/opning.html
 ページ構成は、①オープニング画面、②スクール紹介ページとなっています。
 
 ###### ①オープニング画面キャプチャ
+![Uploading スクリーンショット 2020-11-27 10.18.13.png…]()
 
 
 
