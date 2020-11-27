@@ -19,7 +19,7 @@ http://tealimpala23.sakura.ne.jp/html_NIWA_24/opning.html
 
 
 ## 使用技術
-html、css、jquery(独学)、javascript(独学)
+html、css、jquery、javascript
 
 ## 工夫した点
 ①オープニング画面
