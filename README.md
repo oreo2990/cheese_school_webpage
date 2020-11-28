@@ -7,7 +7,7 @@ http://tealimpala23.sakura.ne.jp/html_NIWA_24/opning.html
 ページ構成は、①オープニング画面、②スクール紹介ページとなっています。
 
 ###### ①オープニング画面キャプチャ
-![オープニング画面キャプチャ](https://oreo2990.github.io/cheese_school_webpage/img/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-11-27%2010.18.13.png)
+![オープニング画面キャプチャ](https://oreo2990.github.io/cheese_school_webpage/img/screenshot1.png)
 
 
 
