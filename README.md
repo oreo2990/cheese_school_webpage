@@ -10,8 +10,10 @@ http://tealimpala23.sakura.ne.jp/html_NIWA_24/opning.html
 ![](img/screenshot1.png "screenshot1")
 
 
-
 ###### ②スクール紹介ページキャプチャ
+![](img/screenshot2.png "screenshot1")
+![](img/screenshot3.png "screenshot1")
+![](img/screenshot4.png "screenshot1")
 
 
 
